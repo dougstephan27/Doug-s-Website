@@ -1,5 +1,5 @@
 ![Image of Douglas](images/headshot.jpg
-"Hello I am Doug")
+"Douglas Stephan")
 ## About Me
 I am a MS student in the UConn EEB department
 interested in elasmobranch tapeworm taxonomy and systematics.
