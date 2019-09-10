@@ -3,5 +3,5 @@
 ## About Me
 I am a MS student in the UConn EEB department
 interested in elasmobranch tapeworm taxonomy and systematics.
-[My CV](PDFs/Doug_CV.pdf)
+[My CV](PDFs/Doug.pdf)
 [Contact Info](contact-info.md)
